@@ -113,5 +113,3 @@ An interactive Java-based visualization tool for Data Structures and Algorithms,
 <p align="center">
   📧 <strong>aella.bhavitha1306@gmail.com</strong>
 </p>
----
-
