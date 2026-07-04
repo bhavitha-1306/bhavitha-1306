@@ -98,26 +98,22 @@ Healthcare platform connecting hospitals, blood donors and medicine services.
 Expense Tracking System developed using PHP & MySQL.
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/aella-bhavitha-b6050a309/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/bhavitha-1306" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="mailto:aella.bhavitha1306@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/aella-bhavitha-b6050a309/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/bhavitha-1306" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:aella.bhavitha1306@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-</a>
-
+<p align="center">
+  📧 <strong>aella.bhavitha1306@gmail.com</strong>
 </p>
 ---
 
