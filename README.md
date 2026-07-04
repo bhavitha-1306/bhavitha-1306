@@ -1,32 +1,35 @@
 <h1 align="center">Hi 👋, I'm Bhavitha</h1>
-<h3 align="center">Aspiring Software Engineer | Java | DSA | Full Stack Developer | ServiceNow Enthusiast</h3>
+
+<h3 align="center">
+Aspiring Software Engineer | Java Developer | DSA Enthusiast | Full Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+Something+New!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;Full+Stack+Developer;DSA+Enthusiast;ServiceNow+Learner;Machine+Learning+Explorer;Always+Learning+Something+New!"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 👩‍💻 About Me
 
 🎓 B.Tech CSE Student
 
 💻 Passionate about Java, Data Structures & Algorithms
 
-🌱 Currently Learning Full Stack Development & Machine Learning
+🌱 Currently learning MERN Stack, Machine Learning & ServiceNow
 
 🚀 Interested in Software Development, AI and Open Source
 
-🎯 Goal: Crack a Product-Based Company
+🎯 Goal: Become a Software Development Engineer
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
 </p>
 
 ### Frontend
@@ -41,89 +44,127 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,androidstudio" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhavitha-1306&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavitha-1306&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavitha-1306&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bhavitha-1306&theme=algolia&column=7&no-frame=true"/>
 
 </p>
 
 ---
 
-## 📊 Contribution Graph
+# 📈 Contribution Graph
 
-[![Bhavitha github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/YOUR_USERNAME)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavitha-1306&theme=react-dark&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🌍 AQI Prediction App
-Real-time AQI Monitoring using APIs with Machine Learning Integration.
+### 🌍 AQI Prediction System
+
+Real-time Air Quality Index monitoring using APIs with upcoming Machine Learning integration.
+
+---
 
 ### 📱 Android Applications
-Native Android applications built using Android Studio.
+
+Native Android applications developed using Android Studio.
+
+---
 
 ### 🩸 Healthy Home
-Healthcare platform connecting blood donors, hospitals and medicine services.
+
+Healthcare platform connecting hospitals, blood donors and medicine services.
+
+---
 
 ### 💰 Expense Tracker
-Full Stack Expense Tracker using PHP & MySQL.
+
+Expense Tracking System developed using PHP & MySQL.
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-✔ Advanced DSA
+✅ Advanced Data Structures & Algorithms
 
-✔ System Design
+✅ MERN Stack
 
-✔ Machine Learning
+✅ Machine Learning
 
-✔ MERN Stack
+✅ ServiceNow CSA & CAD
 
-✔ ServiceNow CSA & CAD
+✅ System Design
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/aella-bhavitha-b6050a309/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/bhavitha-1306" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:aella.bhavitha1306@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+</p>
+
+<p align="center">
+
+📧 **aella.bhavitha1306@gmail.com**
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=bhavitha-1306&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
@@ -131,12 +172,6 @@ Full Stack Expense Tracker using PHP & MySQL.
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=140&section=footer"/>
 
 </p>
