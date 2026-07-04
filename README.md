@@ -29,7 +29,7 @@ Aspiring Software Engineer | DSA Enthusiast | MERN Stack Developer
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript" />
 </p>
 
 ### Frontend
@@ -47,7 +47,7 @@ Aspiring Software Engineer | DSA Enthusiast | MERN Stack Developer
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,androidstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
