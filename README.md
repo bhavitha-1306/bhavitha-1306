@@ -18,8 +18,6 @@ Aspiring Software Engineer | DSA Enthusiast | MERN Stack Developer
 
 🌱 Currently learning MERN Stack, Machine Learning & ServiceNow
 
-🚀 Interested in Software Development, AI and Open Source
-
 🎯 Goal: Become a Software Development Engineer
 
 ---
@@ -82,20 +80,20 @@ Aspiring Software Engineer | DSA Enthusiast | MERN Stack Developer
 
 ### 🌍 AQI Prediction System
 
-Real-time Air Quality Index monitoring using APIs with upcoming Machine Learning integration.
+A real-time Air Quality Index monitoring application that fetches live AQI data using APIs and presents location-based air quality information through an intuitive user interface.
 
 ---
 
+### 🏫 Secure Campus Portal
 
-### 🩸 Healthy Home
-
-Healthcare platform connecting hospitals, blood donors and medicine services.
+A web-based campus management system that enables students to apply for certificates, download approved documents, and submit requests for faculty verification and approval. It also includes secure authentication, role-based access.
 
 ---
 
-### 💰 Expense Tracker
+### 💻 DSA Visualizer
 
-Expense Tracking System developed using PHP & MySQL.
+An interactive Java-based visualization tool for Data Structures and Algorithms, featuring AVL Tree operations, LRU Cache simulation, and step-by-step animations to help understand complex concepts and improve problem-solving skills.
+
 ---
 
 ## 🌐 Connect With Me
